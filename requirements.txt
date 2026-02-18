@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn
+python-docx
+reportlab
+streamlit
+requests
+openai
+pydantic
+python-multipart
